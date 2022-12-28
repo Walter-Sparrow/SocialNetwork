@@ -1,0 +1,173 @@
+{
+  "properties": [
+    {
+      "name": "pagination.defaultPageNumber",
+      "type": "java.lang.Integer",
+      "description": "Description for pagination.defaultPageNumber."
+    },
+    {
+      "name": "pagination.defaultPageSize",
+      "type": "java.lang.Integer",
+      "description": "Description for pagination.defaultPageSize."
+    },
+    {
+      "name": "pagination.defaultSortDirection",
+      "type": "org.springframework.data.domain.Sort$Direction",
+      "description": "Description for pagination.defaultSortDirection."
+    },
+    {
+      "name": "pagination.defaultSortBy",
+      "type": "java.lang.String",
+      "description": "Description for pagination.defaultSortBy."
+    },
+    {
+      "name": "images.profilePicture.defaultWidth",
+      "type": "java.lang.Integer",
+      "description": "Description for images.profilePicture.defaultWidth."
+    },
+    {
+      "name": "images.profilePicture.defaultHeight",
+      "type": "java.lang.Integer",
+      "description": "Description for images.profilePicture.defaultHeight."
+    },
+    {
+      "name": "post.attachments.maxSize",
+      "type": "java.lang.Integer",
+      "description": "Description for post.attachments.maxSize."
+    },
+    {
+      "name": "mail.username",
+      "type": "java.lang.String",
+      "description": "Description for mail.username."
+    },
+    {
+      "name": "mail.registration.subject",
+      "type": "java.lang.String",
+      "description": "Description for mail.registration.subject."
+    },
+    {
+      "name": "mail.registration.text",
+      "type": "java.lang.String",
+      "description": "Description for mail.registration.text."
+    },
+    {
+      "name": "base-url",
+      "type": "java.lang.String",
+      "description": "Description for base-url."
+    },
+    {
+      "name": "search.groups.minLength",
+      "type": "java.lang.Integer",
+      "description": "Description for search.groups.minLength."
+    },
+    {
+      "name": "scheduling.days-delay",
+      "type": "java.lang.Integer",
+      "description": "Description for scheduling.days-delay."
+    },
+    {
+      "name": "feed.pageSize",
+      "type": "java.lang.Integer",
+      "description": "Description for feed.pageSize."
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    },
+    {
+      "name": "jwt.expirationMs",
+      "type": "java.lang.Integer",
+      "description": "Description for jwt.expirationMs."
+    },
+    {
+      "name": "frontend-address",
+      "type": "java.lang.String",
+      "description": "Description for frontend-address."
+    },
+    {
+      "name": "jobs.email-reminder.cron",
+      "type": "java.lang.String",
+      "description": "Description for jobs.email-reminder.cron."
+    },
+    {
+      "name": "jobs.dead-links-crawler.cron",
+      "type": "java.lang.String",
+      "description": "Description for jobs.dead-links-crawler.cron."
+    },
+    {
+      "name": "jobs.expired-confirmation-tokes-crawler.cron",
+      "type": "java.lang.String",
+      "description": "Description for jobs.expired-confirmation-tokes-crawler.cron."
+    },
+    {
+      "name": "app.datasource.postgresql.url",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.postgresql.url."
+    },
+    {
+      "name": "app.datasource.postgresql.username",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.postgresql.username."
+    },
+    {
+      "name": "app.datasource.postgresql.password",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.postgresql.password."
+    },
+    {
+      "name": "app.datasource.mongodb.authentication-database",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.authentication-database."
+    },
+    {
+      "name": "app.datasource.mongodb.username",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.username."
+    },
+    {
+      "name": "app.datasource.mongodb.password",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.password."
+    },
+    {
+      "name": "app.datasource.mongodb.database",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.database."
+    },
+    {
+      "name": "app.datasource.mongodb.port",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.port."
+    },
+    {
+      "name": "app.datasource.mongodb.host",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.host."
+    },
+    {
+      "name": "app.datasource.postgresql.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.postgresql.driver-class-name."
+    },
+    {
+      "name": "app.datasource.mongodb.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.driver-class-name."
+    },
+    {
+      "name": "app.datasource.mongodb.uri",
+      "type": "java.lang.String",
+      "description": "Description for app.datasource.mongodb.uri."
+    },
+    {
+      "name": "oauth.authorizedRedirectUris",
+      "type": "java.util.List<java.lang.String>",
+      "description": "Description for oauth.authorizedRedirectUris."
+    },
+    {
+      "name": "audit.config.reactions.enable",
+      "type": "java.lang.Boolean",
+      "description": "Description for audit.config.reactions.enable."
+    }
+  ] }
